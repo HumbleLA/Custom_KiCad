@@ -414,4 +414,15 @@
 		(layers "F.Cu")
 		(uuid "9caaa65b-2268-4be8-91be-cf65f426d503")
 	)
+	(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-5_TabPin6.step"
+		(offset
+			(xyz -2 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
